@@ -1,0 +1,16 @@
+POTS\AdministratorMenu.class
+POTS\Login.class
+POTS\DailySalesManager.class
+POTS\ItemsManager.class
+POTS\SuppliersManager.class
+POTS\RequisitionsManager.class
+POTS\UsersManager.class
+POTS\InventoryManagerMenu.class
+POTS\ItemsManager$1.class
+POTS\PurchaseOrdersManager.class
+POTS\FinancialManagerMenu.class
+POTS\VerifyPurchaseOrders.class
+POTS\DateChooser.class
+POTS\PaymentsManager.class
+POTS\SalesManagerMenu.class
+POTS\PurchaseManagerMenu.class

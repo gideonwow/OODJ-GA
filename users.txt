@@ -1,0 +1,8 @@
+U001;samuel;Samuel;samuel123;SM;samuel@gmail.com;Kuala Lumpur
+U002;omar;Omar;omar123;IM;omar@gmail.com;Penang
+U003;bryan;Bryan;bryan123;PM;bryan@email.com;Kuching
+U004;gailan;Gailan;gailan123;FM;gailan@gmail.com;Melaka
+U005;gideon;Gideon;gideon123;Admin;gideon@gmail.com;Kuala Lumpur
+U006;alex;Alex;alex;SM;alex@email.com;Kuala Lumpur
+U007;emily;Emily;emily;Admin;emily@email.com;Kuala Lumpur
+U008;jimmyzzz;Jimmy Wong;jim12345zzz;SM;jimmy@email.com;Ipoh
